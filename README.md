@@ -7,6 +7,7 @@ A development (demo) version of the website is available at <https://icdsa.wjden
 Members with varying technical skills can contribute to the development of the website and its content. 
 
 
+
 ## Editing Content
 Content can be edited with at least a minimal knowledge of [Markdown](https://www.markdownguide.org/basic-syntax/), though some knowledge of YAML and HTML would be helpful as well.
 
